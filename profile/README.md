@@ -1,6 +1,6 @@
 # CraftGenie
 
-Spring Boot agent that drives Claude Code to generate and refactor Java enterprise codebases, plus a deterministic library of **Domain Enhancement Patterns** (auditability, soft‑delete, multi‑tenancy, outbox, catch‑weight, …) that the agent applies to a JHipster JDL model with no LLM round‑trip.
+Spring Boot agent that drives Claude Code to generate and refactor Java enterprise codebases, plus a deterministic library of **Domain Enhancement Patterns** (auditability, soft‑delete, multi‑tenancy, outbox, catch‑weight, …) that the agent applies to a JDL data model with no LLM round‑trip.
 
 ## Repos
 

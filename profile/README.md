@@ -8,7 +8,7 @@ Spring Boot agent that drives Claude Code to generate and refactor Java enterpri
 |---|---|
 | [`craftgenie-parent`](https://github.com/craftgenie-agent/craftgenie-parent) | Top‑level driver scripts, test JDL fixtures, `bootstrap.sh`. Start here. |
 | [`craftgenie-agent`](https://github.com/craftgenie-agent/craftgenie-agent) | Spring Boot service · pattern library · JDL parser · scaffold patcher. |
-| [`craftgenie-sheets-sidecar`](https://github.com/craftgenie-agent/craftgenie-sheets-sidecar) | HMAC‑signed Google Sheets bridge. |
+| [`craftgenie-sidecar-google-sheets`](https://github.com/craftgenie-agent/craftgenie-sidecar-google-sheets) | HMAC‑signed Google Sheets bridge. |
 | [`craftgenie-ui`](https://github.com/craftgenie-agent/craftgenie-ui) | React/TS frontend that streams agent SSE. |
 
 ## Quick start
